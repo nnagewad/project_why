@@ -1,0 +1,43 @@
+body,html {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: black;
+}
+
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    padding: 1rem;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1 {
+    color: white;
+    font-size: calc(10vw + (20 - 10) * ((100vw - 375px) / (3840 - 375)));
+    margin: 0;
+}
+
+h2 {
+    display: block;
+    color: #ff69b4;
+    font-size: calc(5vw + (15 - 5) * ((100vw - 375px) / (3840 - 375)));
+    margin: 5px 0 0;
+}
