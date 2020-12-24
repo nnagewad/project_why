@@ -1,4 +1,4 @@
-# The many ways to ask why?
+# The many ways of asking why?
 
 ## Inspiration
 - Norman McLaren, animator known for his work with the National Film Board of Canada. 
