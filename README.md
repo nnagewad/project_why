@@ -17,4 +17,4 @@
 
 
 ## Live prototype
-- https://why-multi.herokuapp.com/
+- https://festive-austin-942d55.netlify.app/
